@@ -32,4 +32,5 @@ public class ChatPage {
         result.setUsername(getFirstMessage().getUsername());
         return result;
     }
+
 }
